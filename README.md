@@ -1,2 +1,2 @@
-# International-Debt-Analisis
-SQL: Using Join & CTE
+# International-Debt-Analysis
+SQL basic statistical aproach
